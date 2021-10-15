@@ -4,11 +4,11 @@
 }
 
 body{
-     background-color: rgb(224, 35, 35);
+     background-color: rgb(22, 139, 175);
  }
 
  main{
-     background-color: rgb(150, 211, 51);
+     background-color: rgb(162, 216, 76);
      width: 500px;
      margin: auto;
      padding: 10px;
@@ -16,7 +16,7 @@ body{
  }
 
  article{
-    background-color: rgb(150, 211, 51);
+    background-color: rgb(162, 216, 76);
     width: 450px;
     margin: auto;
     padding: 10px;
